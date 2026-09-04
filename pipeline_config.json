@@ -1,0 +1,6 @@
+{
+    "pipeline_name": "SentimentAnalysis",
+    "max_sequence_length": 128,
+    "pretrained_weights": "bert-base-uncased",
+    "fine_tuned": true
+}

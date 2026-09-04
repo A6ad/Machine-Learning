@@ -1,0 +1,4 @@
+Model,Latency_ms,Accuracy
+ResNet-50,45,92.4%
+MobileNet,14,88.1%
+VisionTransformer,78,95.6%
